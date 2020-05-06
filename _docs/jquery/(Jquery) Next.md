@@ -1,6 +1,6 @@
 ---
 order: 2
-title: Next
+title: (Jquery) Next
 category: Jquery
 ---
 

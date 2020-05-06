@@ -1,6 +1,6 @@
 ---
 order: 5
-title: bool isset 
+title: (Javascript) bool isset 
 category: Javascript
 ---
 

@@ -1,6 +1,6 @@
 ---
 order: 16
-title: textarea 속에 내용넣기(Disappear when clicking)
+title: (Javascript) textarea 속에 내용넣기(Disappear when clicking)
 category: Javascript
 ---
 

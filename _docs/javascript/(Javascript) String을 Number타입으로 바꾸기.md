@@ -1,6 +1,6 @@
 ---
 order: 23
-title: String을 Number타입으로 바꾸기
+title: (Javascript) String을 Number타입으로 바꾸기
 category: Javascript
 ---
 

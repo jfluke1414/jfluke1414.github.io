@@ -1,6 +1,6 @@
 ---
 order: 5
-title: Checkbox alert
+title: (Jquery) Checkbox alert
 category: Jquery
 ---
 

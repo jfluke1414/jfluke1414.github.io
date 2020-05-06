@@ -1,6 +1,6 @@
 ---
 order: 15
-title: IE 체크(IE11 포함)
+title: (PHP) IE 체크(IE11 포함)
 category: Php
 ---
 

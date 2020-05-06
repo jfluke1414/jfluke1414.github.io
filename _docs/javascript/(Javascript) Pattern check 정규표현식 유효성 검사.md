@@ -1,6 +1,6 @@
 ---
 order: 18
-title: Pattern check 정규표현식 유효성 검사
+title: (Javascript) Pattern check 정규표현식 유효성 검사
 category: Javascript
 ---
 

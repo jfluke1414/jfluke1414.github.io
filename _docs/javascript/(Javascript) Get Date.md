@@ -1,6 +1,6 @@
 ---
 order: 20
-title: Get Date
+title: (Javascript) Get Date
 category: Javascript
 ---
 

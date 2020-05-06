@@ -1,6 +1,6 @@
 ---
 order: 21
-title: Substring 맨 앞 글자만 빼기
+title: (Javascript) Substring 맨 앞 글자만 빼기
 category: Javascript
 ---
 

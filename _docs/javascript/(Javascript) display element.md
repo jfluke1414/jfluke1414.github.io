@@ -1,6 +1,6 @@
 ---
 order: 2
-title: display element
+title: (Javascript) display element
 category: Javascript
 ---
 

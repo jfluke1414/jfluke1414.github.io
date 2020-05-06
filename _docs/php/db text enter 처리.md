@@ -1,6 +1,6 @@
 ---
 order: 2
-title: db text enter 처리
+title: (PHP) db text enter 처리
 category: Php
 ---
 

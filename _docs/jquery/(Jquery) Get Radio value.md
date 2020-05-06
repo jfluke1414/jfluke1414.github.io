@@ -1,6 +1,6 @@
 ---
 order: 6
-title: Get Radio value
+title: (Jquery) Get Radio value
 category: Jquery
 ---
 

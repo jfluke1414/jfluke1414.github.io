@@ -1,6 +1,6 @@
 ---
 order: 18
-title: Checkbox all 선택해제
+title: (Javascript) Checkbox all 선택해제
 category: Javascript
 ---
 

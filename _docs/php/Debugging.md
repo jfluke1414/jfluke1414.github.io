@@ -1,6 +1,6 @@
 ---
 order: 1
-title: Debugging
+title: (PHP) Debugging
 category: Php
 ---
 

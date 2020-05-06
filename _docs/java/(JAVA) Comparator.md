@@ -1,6 +1,6 @@
 ---
 order: 12
-title: Comparator
+title: (JAVA) Comparator
 category: Java
 ---
 

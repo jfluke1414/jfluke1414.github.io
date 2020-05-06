@@ -1,6 +1,6 @@
 ---
 order: 6
-title: String Merge
+title: (PHP) String Merge
 category: Php
 ---
 

@@ -1,6 +1,6 @@
 ---
 order: 11
-title: Get date before a year
+title: (PHP) Get date before a year
 category: Php
 ---
 

@@ -1,6 +1,6 @@
 ---
 order: 6
-title: LoggerWrapper
+title: (JAVA) LoggerWrapper
 category: Java
 ---
 

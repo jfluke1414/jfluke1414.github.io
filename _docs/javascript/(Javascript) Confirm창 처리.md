@@ -1,6 +1,6 @@
 ---
 order: 17
-title: Confirm창 처리
+title: (Javascript) Confirm창 처리
 category: Javascript
 ---
 

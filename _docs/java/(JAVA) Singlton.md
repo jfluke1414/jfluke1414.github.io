@@ -1,6 +1,6 @@
 ---
 order: 8
-title: Singlton
+title: (JAVA) Singlton
 category: Java
 ---
 

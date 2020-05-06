@@ -1,6 +1,6 @@
 ---
 order: 25
-title: Comparing date
+title: (Javascript) Comparing date
 category: Javascript
 ---
 

@@ -1,6 +1,6 @@
 ---
 order: 7
-title: Print alert
+title: (Javascript) Print alert
 category: Javascript
 ---
 

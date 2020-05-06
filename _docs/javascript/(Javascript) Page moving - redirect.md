@@ -1,6 +1,6 @@
 ---
 order: 24
-title: Page moving - redirect
+title: (Javascript) Page moving - redirect
 category: Javascript
 ---
 

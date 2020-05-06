@@ -1,6 +1,6 @@
 ---
 order: 5
-title: Ajax 값 전송 Html로 표출
+title: (PHP) Ajax 값 전송 Html로 표출
 category: Php
 ---
 

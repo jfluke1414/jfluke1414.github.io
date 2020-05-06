@@ -1,6 +1,6 @@
 ---
 order: 13
-title: Image Drobdown시 표시 바꾸기
+title: (Javascript) Image Drobdown시 표시 바꾸기
 category: Javascript
 ---
 

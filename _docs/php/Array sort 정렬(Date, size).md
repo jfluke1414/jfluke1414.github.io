@@ -1,6 +1,6 @@
 ---
 order: 14
-title: Array sort 정렬(Date, size)
+title: (PHP) Array sort 정렬(Date, size)
 category: Php
 ---
 

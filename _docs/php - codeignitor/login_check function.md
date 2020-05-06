@@ -1,6 +1,6 @@
 ---
 order: 1
-title: login_check function
+title: (PHP-codeig) login_check function
 category: Php - codeignitor
 ---
 

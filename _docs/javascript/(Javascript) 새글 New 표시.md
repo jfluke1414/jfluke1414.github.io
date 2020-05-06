@@ -1,6 +1,6 @@
 ---
 order: 12
-title: 새글 New 표시
+title: (Javascript) 새글 New 표시
 category: Javascript
 ---
 

@@ -1,6 +1,6 @@
 ---
 order: 16
-title: [Collection] shuffle
+title: (JAVA) [Collection] shuffle
 category: Java
 ---
 

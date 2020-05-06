@@ -1,6 +1,6 @@
 ---
 order: 14
-title: Dialog 띄우기 
+title: (Javascript) Dialog 띄우기 
 category: Javascript
 ---
 

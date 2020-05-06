@@ -1,6 +1,6 @@
 ---
 order: 7
-title: AD Filtering(★)
+title: (JAVA) AD Filtering(★)
 category: Java
 ---
 

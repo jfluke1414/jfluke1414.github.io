@@ -1,6 +1,6 @@
 ---
 order: 8
-title: Form validation
+title: (Javascript) Form validation
 category: Javascript
 ---
 

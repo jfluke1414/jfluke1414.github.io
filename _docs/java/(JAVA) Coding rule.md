@@ -1,6 +1,6 @@
 ---
 order: 4
-title: Coding rule
+title: (JAVA) Coding rule
 category: Java
 ---
 

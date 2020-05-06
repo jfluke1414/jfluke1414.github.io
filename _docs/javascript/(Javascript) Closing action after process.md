@@ -1,6 +1,6 @@
 ---
 order: 11
-title: Closing action after process
+title: (Javascript) Closing action after process
 category: Javascript
 ---
 

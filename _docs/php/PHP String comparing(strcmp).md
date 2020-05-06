@@ -1,6 +1,6 @@
 ---
 order: 13
-title: PHP String comparing(strcmp)
+title: (PHP) PHP String comparing(strcmp)
 category: Php
 ---
 

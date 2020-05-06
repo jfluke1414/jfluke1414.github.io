@@ -1,6 +1,6 @@
 ---
 order: 17
-title: Get current timestamp
+title: (PHP) Get current timestamp
 category: Php
 ---
 

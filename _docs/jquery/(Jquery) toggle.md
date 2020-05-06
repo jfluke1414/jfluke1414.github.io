@@ -1,6 +1,6 @@
 ---
 order: 3
-title: toggle
+title: (Jquery) toggle
 category: Jquery
 ---
 

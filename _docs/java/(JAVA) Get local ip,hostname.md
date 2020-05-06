@@ -1,6 +1,6 @@
 ---
 order: 9
-title: Get local ip,hostname
+title: (JAVA) Get local ip,hostname
 category: Java
 ---
 

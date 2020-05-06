@@ -1,6 +1,6 @@
 ---
 order: 4
-title: [jquery]Find (button눌럿을때 이미지 변경)
+title: (Jquery) Find (button눌럿을때 이미지 변경)
 category: Jquery
 ---
 

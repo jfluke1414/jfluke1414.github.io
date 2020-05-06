@@ -1,6 +1,6 @@
 ---
 order: 7
-title: jQuery, prototype 동시에 사용 시 충돌 해결 방법
+title: (Jquery) jQuery, prototype 동시에 사용 시 충돌 해결 방법
 category: Jquery
 ---
 

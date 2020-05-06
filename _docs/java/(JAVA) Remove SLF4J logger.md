@@ -1,6 +1,6 @@
 ---
 order: 10
-title: Remove SLF4J logger
+title: (JAVA) Remove SLF4J logger
 category: Java
 ---
 

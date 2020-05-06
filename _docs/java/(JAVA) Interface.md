@@ -1,6 +1,6 @@
 ---
 order: 1
-title: Interface
+title: (JAVA) Interface
 category: Java
 ---
 

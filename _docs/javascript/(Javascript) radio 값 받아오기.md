@@ -1,6 +1,6 @@
 ---
 order: 19
-title: radio 값 받아오기
+title: (Javascript) radio 값 받아오기
 category: Javascript
 ---
 

@@ -1,6 +1,6 @@
 ---
 order: 12
-title: controller import(controller 간)
+title: (PHP) controller import(controller 간)
 category: Php
 ---
 

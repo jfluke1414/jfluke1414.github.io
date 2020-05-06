@@ -1,6 +1,6 @@
 ---
 order: 22
-title: encode, decode
+title: (Javascript) encode, decode
 category: Javascript
 ---
 

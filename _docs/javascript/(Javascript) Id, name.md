@@ -1,6 +1,6 @@
 ---
 order: 6
-title: Id, Name
+title: (Javascript) Id, Name
 category: Javascript
 ---
 

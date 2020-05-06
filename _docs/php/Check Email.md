@@ -1,6 +1,6 @@
 ---
 order: 9
-title: Check Email
+title: (PHP) Check Email
 category: Php
 ---
 
