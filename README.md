@@ -1,42 +1,66 @@
-# .X [![Build Status](https://travis-ci.org/nandomoreirame/dotX.svg?branch=master)](https://travis-ci.org/nandomoreirame/dotX)
+# Edition
 
-> Simple & Beautiful Jekyll theme
+Product documentation template for Jekyll. Browse through a [live demo](https://long-pig.cloudvent.net/).
+Start documenting your product, application, service or website with this configurable theme.
 
+![Edition template screenshot](images/_screenshot.png)
 
+Edition was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
 
-### [Demo](https://nandomoreirame.github.io/dotX/)
+Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Academy](https://learn.cloudcannon.com/).
 
-![dotX - free Jekyll theme](/screenshot.png)
+## Features
 
----
+* Two column layout
+* Full text search
+* Pre-styled components
+* Auto-generated navigation based on category
+* Optimised for editing in [CloudCannon](http://cloudcannon.com/)
+* Change log
+* RSS/Atom feed
+* SEO tags
+* Google Analytics
 
-### Start in 4 steps
+## Setup
 
-1. Download or clone repo `git clone git@github.com:nandomoreirame/dotX.git`
-2. Enter the folder: `cd dotX/`
-3. Install Ruby gems: `bundle install`
-4. Start Jekyll server: `jekyll serve`
+1. Add your site and author details in `_config.yml`.
+2. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Jekyll locally).
 
-Access, [localhost:4000/dotX](http://localhost:4000/dotX)
+## Develop
 
-### Deploy in Github pages in 2 steps
+Edition was built with [Jekyll](http://jekyllrb.com/) version 3.3.1, but should support newer versions as well.
 
-1. Change the variables `GITHUB_REPONAME` and `GITHUB_REPO_BRANCH` in `Rakefile`
-2. Run `rake` or `rake publish` for build and publish on Github
+Install the dependencies with [Bundler](http://bundler.io/):
 
----
+~~~bash
+$ bundle install
+~~~
 
-### Using Rake tasks
+Run `jekyll` commands through Bundler to ensure you're using the right versions:
 
-* Create a new page: `rake page name="contact.md"`
-* Create a new post: `rake post title="TITLE OF THE POST"`
+~~~bash
+$ bundle exec jekyll serve
+~~~
 
----
+## Editing
 
-### Copyright and license
+Edition is already optimised for adding, updating and removing documentation pages in CloudCannon.
 
-It is under [the MIT license](/LICENSE).
+### Documentation pages
 
-Enjoy :yum:
+* Add, update or remove a documentation page in the *Documentation* collection.
+* Change the category of a documentation page to move it to another section in the navigation.
+* Documentation pages are organised in the navigation by category, with URLs based on the path inside the `_docs` folder.
 
-by [nandomoreira.me](https://nandomoreira.me)
+### Change log
+
+* Add, update or remove change log entries from your posts.
+* Tag entries as minor or major in the front matter.
+
+### Search
+
+* Add `excluded_in_search: true` to any documentation page's front matter to exclude that page in the search results.
+
+### Navigation
+
+* Change `site.show_full_navigation` to control all or only the current navigation group being open.
