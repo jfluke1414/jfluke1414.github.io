@@ -1,6 +1,8 @@
 # ----
 # Site
 
+include: ['_pages']
+
 title: Edition Template
 url: "https://jfluke1414.github.io"
 baseurl:
