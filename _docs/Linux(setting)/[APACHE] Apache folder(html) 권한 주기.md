@@ -1,6 +1,6 @@
 ---
-title: Facebook
-category: Contact Syncing
+title: [APACHE] Apache folder(html) 권한 주기 
+category: linux
 order: 1
 ---
 
