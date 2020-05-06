@@ -1,6 +1,6 @@
 ---
 title: test
-category: linux
+category: Linux
 order: 1
 ---
 
