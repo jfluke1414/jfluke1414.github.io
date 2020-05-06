@@ -1,0 +1,22 @@
+---
+title: Oracle table 용량 알아보는 방법
+category: Oracledb
+order: 8
+---
+
+SELECT 
+    SEGMENT_TYPE
+    , SEGMENT_NAME
+    , TABLESPACE_NAME
+    , SUM(BYTES)
+FROM DBA_SEGMENTS    
+WHERE SEGMENT_TYPE IN ('TABLE', 'TABLE PARTITION', 'TABLE SUBPARTITION')
+AND UPPER(OWNER) = 'DY15'
+GROUP BY SEGMENT_TYPE 
+    , SEGMENT_NAME
+    , TABLESPACE_NAME
+
+
+
+1 GB
+1,073,741,824 byte
