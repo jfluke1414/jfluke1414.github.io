@@ -1,7 +1,7 @@
 ---
 title: test
 category: java
-order: 1
+order: 2
 ---
 
 test
