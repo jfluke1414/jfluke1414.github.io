@@ -1,7 +1,7 @@
 ---
 title: test
-category: java
-order: 2
+category: Java
+order: 1
 ---
 
 test
