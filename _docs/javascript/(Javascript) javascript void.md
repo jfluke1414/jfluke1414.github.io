@@ -1,6 +1,6 @@
 ---
 order: 1
-title: javascript void1111
+title: (Javascript) javascript void
 category: Javascript
 ---
 
