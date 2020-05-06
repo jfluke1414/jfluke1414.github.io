@@ -1,6 +1,6 @@
 ---
 title: test
-category: linux
+category: java
 order: 1
 ---
 
