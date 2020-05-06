@@ -1,7 +1,7 @@
 ---
-title: test
-category: linux
-order: 2
+title:     My Awesome Page
+permalink: /linux
+layout:    page
 ---
 
 test
