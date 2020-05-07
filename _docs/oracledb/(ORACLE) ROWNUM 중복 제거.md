@@ -1,5 +1,5 @@
 ---
-title: ROWNUM 중복 제거
+title: (ORACLE) ROWNUM 중복 제거
 category: Oracledb
 order: 17
 ---

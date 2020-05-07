@@ -1,5 +1,5 @@
 ---
-title: Oracle session kill
+title: (ORACLE) Oracle session kill
 category: Oracledb
 order: 15
 ---

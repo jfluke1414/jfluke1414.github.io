@@ -1,6 +1,6 @@
 ---
 order: 38
-title: COMMIT시 복구
+title: (ORACLE) COMMIT시 복구
 category: Oracledb
 ---
 

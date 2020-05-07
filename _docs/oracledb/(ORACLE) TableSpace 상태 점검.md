@@ -1,6 +1,6 @@
 ---
 order: 27
-title: TableSpace 상태 점검
+title: (ORACLE) TableSpace 상태 점검
 category: Oracledb
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Oracle 사용자 패스워드 사용기간 제한 없애기
+title: (ORACLE) Oracle 사용자 패스워드 사용기간 제한 없애기
 category: Oracledb
 order: 19
 ---

@@ -1,6 +1,6 @@
 ---
 order: 34
-title: Oracle version
+title: (ORACLE) Oracle version
 category: Oracledb
 ---
 

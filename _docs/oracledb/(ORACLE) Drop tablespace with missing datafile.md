@@ -1,6 +1,6 @@
 ---
 order: 28
-title: Drop tablespace with missing datafile
+title: (ORACLE) Drop tablespace with missing datafile
 category: Oracledb
 ---
 

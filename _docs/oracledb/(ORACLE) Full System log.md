@@ -1,6 +1,6 @@
 ---
 order: 45
-title: Full System log
+title: (ORACLE) Full System log
 category: Oracledb
 ---
 

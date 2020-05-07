@@ -1,6 +1,6 @@
 ---
 order: 42
-title: DBA TABLESPACE COMPRESSION 설정 확인 쿼리
+title: (ORACLE) DBA TABLESPACE COMPRESSION 설정 확인 쿼리
 category: Oracledb
 ---
 

@@ -1,6 +1,6 @@
 ---
 order: 43
-title: ALTER TABLE COMPRESS
+title: (ORACLE) ALTER TABLE COMPRESS
 category: Oracledb
 ---
 

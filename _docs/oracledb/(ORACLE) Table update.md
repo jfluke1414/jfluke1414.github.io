@@ -1,5 +1,5 @@
 ---
-title: Table update
+title: (ORACLE) Table update
 category: Oracledb
 order: 16
 ---

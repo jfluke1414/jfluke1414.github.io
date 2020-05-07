@@ -1,6 +1,6 @@
 ---
 order: 41
-title: ORACLE COMPRESS TABLE
+title: (ORACLE) ORACLE COMPRESS TABLE
 category: Oracledb
 ---
 

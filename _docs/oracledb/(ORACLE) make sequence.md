@@ -1,6 +1,6 @@
 ---
 order: 36
-title: make sequence
+title: (ORACLE) make sequence
 category: Oracledb
 ---
 

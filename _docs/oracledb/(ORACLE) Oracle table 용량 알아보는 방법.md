@@ -1,5 +1,5 @@
 ---
-title: Oracle table 용량 알아보는 방법
+title: (ORACLE) Oracle table 용량 알아보는 방법
 category: Oracledb
 order: 8
 ---

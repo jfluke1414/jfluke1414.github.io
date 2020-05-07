@@ -1,6 +1,6 @@
 ---
 order: 40
-title: Insert into
+title: (ORACLE) Insert into
 category: Oracledb
 ---
 

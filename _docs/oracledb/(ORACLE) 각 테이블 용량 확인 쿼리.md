@@ -1,6 +1,6 @@
 ---
 order: 39
-title: 각 테이블 용량 확인 쿼리
+title: (ORACLE) 각 테이블 용량 확인 쿼리
 category: Oracledb
 ---
 

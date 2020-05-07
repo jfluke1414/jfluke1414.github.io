@@ -1,5 +1,5 @@
 ---
-title: ORA_HASH 사용방법
+title: (ORACLE) ORA_HASH 사용방법
 category: Oracledb
 order: 20
 ---

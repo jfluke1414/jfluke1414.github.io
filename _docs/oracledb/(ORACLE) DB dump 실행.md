@@ -1,5 +1,5 @@
 ---
-title: DB dump 실행
+title: (ORACLE) DB dump 실행
 category: Oracledb
 order: 5
 ---

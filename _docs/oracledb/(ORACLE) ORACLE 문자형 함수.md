@@ -1,5 +1,5 @@
 ---
-title: ORACLE 문자형 함수
+title: (ORACLE) ORACLE 문자형 함수
 category: Oracledb
 order: 13
 ---

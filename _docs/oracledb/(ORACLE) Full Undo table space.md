@@ -1,6 +1,6 @@
 ---
 order: 46
-title: Full Undo table space
+title: (ORACLE) Full Undo table space
 category: Oracledb
 ---
 

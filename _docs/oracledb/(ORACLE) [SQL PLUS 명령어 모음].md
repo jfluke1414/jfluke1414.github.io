@@ -1,6 +1,6 @@
 ---
 order: 32
-title: [SQL PLUS 명령어 모음]
+title: (ORACLE) [SQL PLUS 명령어 모음]
 category: Oracledb
 ---
 

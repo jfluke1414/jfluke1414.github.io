@@ -1,5 +1,5 @@
 ---
-title: Oracle hashcode 적용
+title: (ORACLE) Oracle hashcode 적용
 category: Oracledb
 order: 12
 ---

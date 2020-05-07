@@ -1,6 +1,6 @@
 ---
 order: 48
-title: oracle two instance up
+title: (ORACLE) oracle two instance up
 category: Oracledb
 ---
 

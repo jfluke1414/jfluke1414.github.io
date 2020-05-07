@@ -1,6 +1,6 @@
 ---
 order: 25
-title: [DB LINK] 생성 삭제
+title: (ORACLE) [DB LINK] 생성 삭제
 category: Oracledb
 ---
 

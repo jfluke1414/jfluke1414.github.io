@@ -1,6 +1,6 @@
 ---
 order: 30
-title: [TableSpace] datafile script 추출
+title: (ORACLE) [TableSpace] datafile script 추출
 category: Oracledb
 ---
 

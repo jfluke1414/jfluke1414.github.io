@@ -1,5 +1,5 @@
 ---
-title: Join (nest loop  hash join)
+title: (ORACLE) Join (nest loop  hash join)
 category: Oracledb
 order: 11
 ---

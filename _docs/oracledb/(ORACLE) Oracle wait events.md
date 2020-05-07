@@ -1,6 +1,6 @@
 ---
 order: 50
-title: Oracle wait events
+title: (ORACLE) Oracle wait events
 category: Oracledb
 ---
 

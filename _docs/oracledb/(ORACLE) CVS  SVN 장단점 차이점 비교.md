@@ -1,6 +1,6 @@
 ---
 order: 24
-title: CVS  SVN 장단점 차이점 비교
+title: (ORACLE) CVS SVN 장단점 차이점 비교
 category: Oracledb
 ---
 

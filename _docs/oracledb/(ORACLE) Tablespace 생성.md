@@ -1,5 +1,5 @@
 ---
-title: Tablespace 생성
+title: (ORACLE) Tablespace 생성
 category: Oracledb
 order: 21
 ---

@@ -1,5 +1,5 @@
 ---
-title: Oracle Data 흐름(구조)
+title: (ORACLE) Oracle Data 흐름(구조)
 category: Oracledb
 order: 2
 ---

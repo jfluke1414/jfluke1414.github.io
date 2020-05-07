@@ -1,6 +1,6 @@
 ---
 order: 37
-title: enq TX - row lock contention
+title: (ORACLE) enq TX - row lock contention
 category: Oracledb
 ---
 

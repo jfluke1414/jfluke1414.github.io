@@ -1,6 +1,6 @@
 ---
 order: 33
-title: LOCK해제 및 패스워드 설정
+title: (ORACLE) LOCK해제 및 패스워드 설정
 category: Oracledb
 ---
 

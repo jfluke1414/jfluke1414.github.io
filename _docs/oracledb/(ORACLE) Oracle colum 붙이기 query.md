@@ -1,5 +1,5 @@
 ---
-title: Oracle colum 붙이기 query
+title: (ORACLE) Oracle colum 붙이기 query
 category: Oracledb
 order: 1
 ---

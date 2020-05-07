@@ -1,5 +1,5 @@
 ---
-title: ORACLE UPDATE JOIN
+title: (ORACLE) ORACLE UPDATE JOIN
 category: Oracledb
 order: 14
 ---

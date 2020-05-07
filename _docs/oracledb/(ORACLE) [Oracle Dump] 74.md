@@ -1,6 +1,6 @@
 ---
 order: 29
-title: Oracle Dump 74
+title: (ORACLE) Oracle Dump 74
 category: Oracledb
 ---
 

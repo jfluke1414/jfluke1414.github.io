@@ -1,6 +1,6 @@
 ---
 order: 49
-title: Redo file drop
+title: (ORACLE) Redo file drop
 category: Oracledb
 ---
 

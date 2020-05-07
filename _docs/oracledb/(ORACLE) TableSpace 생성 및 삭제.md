@@ -1,6 +1,6 @@
 ---
 order: 26
-title: TableSpace 생성 및 삭제
+title: (ORACLE) TableSpace 생성 및 삭제
 category: Oracledb
 ---
 

@@ -1,6 +1,6 @@
 ---
 order: 47
-title: Dump import table
+title: (ORACLE) Dump import table
 category: Oracledb
 ---
 
