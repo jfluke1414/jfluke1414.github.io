@@ -10,6 +10,3 @@ $con=(strtotime($check_time) - strtotime($date))/60/60/24;
 if( $con <= $recent_time && $filename != ''){
 
 }
-
-
-
