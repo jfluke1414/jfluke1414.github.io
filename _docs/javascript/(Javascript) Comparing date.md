@@ -4,7 +4,9 @@ title: (Javascript) Comparing date
 category: Javascript
 ---
 
+
 //추가
+```
 	var now = new Date();
 	var today = new Date(now.getFullYear(), now.getMonth(), now.getDate())
 	
@@ -22,3 +24,4 @@ category: Javascript
 		}
 		minical.style.display='none';
 	}
+```
