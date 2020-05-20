@@ -26,7 +26,7 @@
     
 *### contact form(writing form)   
  contact.blade.php   
-'''   
+```
  <form action="contact" method="post" role="form" class="php-email-form">   
      {{@csrf_field()}}   
        <div class="form-row">   
@@ -54,7 +54,7 @@
        </div>   
        <div class="text-center"><button type="submit">Send Message</button></div>   
      </form>   
-'''    
+```
 *### set up route.php   
  Route::post('contact', 'ContactController@send');   
     
@@ -99,7 +99,7 @@
  at view/emails/email   
     
  email.php   
- '''
+```
  <!DOCTYPE html>   
  <html lang="en">   
     
@@ -120,4 +120,4 @@
     </body>   
     
  </html>   
- '''
+```
