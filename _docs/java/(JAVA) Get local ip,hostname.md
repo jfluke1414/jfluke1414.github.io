@@ -4,6 +4,7 @@ title: (JAVA) Get local ip,hostname
 category: Java
 ---
 
+```
 public class Print{
   public static void main(String[] args){
     try{
@@ -15,3 +16,4 @@ public class Print{
     }
   }
 }
+```

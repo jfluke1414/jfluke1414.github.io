@@ -4,4 +4,4 @@ title: (HTML) Email link
 category: HTML
 ---
 
-e-mail　<a href="mailto:sales@Jiransoft.jp">sales@Jiransoft.jp</a>
+e-mail　<a href="mailto:sales@gmail.jp">sales@gamil.jp</a>

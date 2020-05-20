@@ -5,6 +5,7 @@ category: Java
 ---
 
 1. Singleton 패턴 
+```
 2. class Singleton { 
 3. private static Singleton instance;
 4. private Singleton(){ 
@@ -15,3 +16,4 @@ category: Java
 9. return instance; 
 10. } 
 11. }
+```

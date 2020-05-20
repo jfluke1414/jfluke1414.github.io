@@ -4,11 +4,11 @@ title: (JAVA) Coding rule
 category: Java
 ---
 
-● 주석 shift+Alt+j  : Export -> javadoc 설정 하위 폴더 class file 저장
+### ● 주석 shift+Alt+j  : Export -> javadoc 설정 하위 폴더 class file 저장
 
-● Import   java.util.regex.pattern  처럼 하나씩 import를 시켜준다.
+### ● Import   java.util.regex.pattern  처럼 하나씩 import를 시켜준다.
 
-● 배열을 검색하여 줄때
+### ● 배열을 검색하여 줄때
 	String[] data = {"","",""};
 	For(int i=0; i<data.length; i++)
 	보다

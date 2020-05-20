@@ -4,6 +4,7 @@ title: (JAVA) [Collection] shuffle
 category: Java
 ---
 
+```
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.LinkedList;
@@ -40,3 +41,4 @@ public class MainClass {
   }  
 }
 
+```

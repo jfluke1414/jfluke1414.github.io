@@ -1,6 +1,6 @@
 ---
 order: 1
-title: ! [rejected] master - master (fetch first)
+title: rejected master - master (fetch first)
 category: Github
 ---
 
