@@ -4,10 +4,10 @@
  category: Laravel   
 ---   
    
-### server   
+### * 1. server   
  php artisan make:controller ContactController   
     
-### vi /home/crypto/htdocs/portfolio/.env   
+### * 2. vi /home/crypto/htdocs/portfolio/.env   
  MAIL_DRIVER=smtp   
  MAIL_HOST=smtp.gmail.com   
  MAIL_PORT=587   
@@ -15,18 +15,19 @@
  MAIL_PASSWORD=passward   
  MAIL_ENCRYPTION=tls   
     
-### setting firewall   
+### * 3. setting firewall   
  firewall-cmd --permanent --zone=public --add-port=587/tcp   
  systemctl restart firewalld.service   
  firewall-cmd --list-ports   
     
-### google account   
+### * 4. google account   
  Turn on   
  account -> security -> Less secure app access   
     
-### contact form(writing form)   
+### * 5. contact form(writing form)   
  contact.blade.php   
-```
+<pre>
+<code>
  <form action="contact" method="post" role="form" class="php-email-form">   
      {{@csrf_field()}}   
        <div class="form-row">   
@@ -54,11 +55,13 @@
        </div>   
        <div class="text-center"><button type="submit">Send Message</button></div>   
      </form>   
-```
-### set up route.php   
+</code>
+</pre>
+
+### * 6. set up route.php   
  Route::post('contact', 'ContactController@send');   
     
-### ContactController.php   
+### * 7. ContactController.php   
  add below   
  use Redirect,Response,DB,Config;   
  use Mail;   
@@ -93,7 +96,7 @@
 }   
 ```
 
-### make viewfile for email form(e-mail will be sent by a form below)   
+### * 8. make viewfile for email form(e-mail will be sent by a form below)   
  at view/emails/email   
     
  email.php   
