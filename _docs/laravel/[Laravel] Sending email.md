@@ -4,7 +4,7 @@ title: ([Laravel) Sending email
 category: Laravel
 ---
 
-1. server
+1. server<br>
 php artisan make:controller ContactController
 
 2. vi /home/crypto/htdocs/portfolio/.env
