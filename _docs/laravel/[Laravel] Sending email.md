@@ -4,7 +4,7 @@
  category: Laravel   
 ---   
    
-### 1. * server   
+### * server   
  php artisan make:controller ContactController   
     
 ### * 2. vi /home/crypto/htdocs/portfolio/.env   
