@@ -46,7 +46,7 @@ Twitter4j사이트의 Code Example 에 간단한 예제가 나와있어서 참
 인증토큰 얻기
 Twitter4J를 사용하려면 당연히 최신버전의 Twitter4J jar파일을 프로젝트에 추가하여 하고 해당 소스를 사용할때 당연히 import도 해야하지만 그런부분은 여기서는 생략하고 소스만 보겠습니다. ㅎ
 
-?
+```
 1	final String CONSUMER_KEY = "발급받은 CONSUMER Key";
 2	final String CONSUMER_SECRET = "발급받은 CONSUMER Secret 키";
 3	 
@@ -60,6 +60,7 @@ Twitter4J를 사용하려면 당연히 최신버전의 Twitter4J jar파일을 �
 11	}
 12	//store requestToken.getToken() & requestToken.getTokenSecret()
 13	//Retirect to requestToken.getAuthorizationURL()
+```
 위 코드를 통해서 토큰을 얻을 수 있습니다. requestToken.getToken()과 requestToken.getTokenSecret()에서 스트링타입의 토큰을 트위터로부터 받아오게 되고 사용자가 트위터사이트에서 인증을 허락한 뒤에 다시 사용해야 하므로 세션등에 저장해 둡니다. requestToken.getAuthorizationURL()는 트위터 인증URL에 토큰을 파라미터로 넘겨주는 주소로 다음과 같은 형태입니다.
 
 http://twitter.com/oauth/authorize?oauth_token=인증토큰
@@ -77,7 +78,7 @@ http://리다이렉트URL?oauth_token=인증토큰
 
 
 인증하기
-?
+```
 1	Twitter twitter = new Twitter();
 2	twitter.setOAuthConsumer(CONSUMER_KEY, CONSUMER_SECRET);
 3	 
@@ -92,23 +93,25 @@ http://리다이렉트URL?oauth_token=인증토큰
 12	 
 13	    //store oauthToke & secretToken to DB
 14	}
+```
 받아온 oauth_token값과 앞단계에서 발급받은 토큰의 값을 기뵤해서 값을 경우에 2개의 값(token, serect token)으로  accessToken을 만들어서 twitter객체가 OAuth권한을 얻도록 합니다. 여기까지 진행되면 twitter객체를 이용해서 해당 유저의 트위터를 이용할 수 있게 됩니다. 첫 토큰획득과 2번째 비교할때의 시간텀이 길어지게 되면 트위터에서 인증을 거부합니다.
 
 일시적인 인증이 아니라면 Token과 Secret Token을 디비에 저장해 두면 다음에 사용자가 로그인 했을 경우에도 다시 트위터의 접근 권한을 자동으로 얻을 수 있습니다.
 
-?
+```
 1	Twitter twitter = new Twitter();
 2	twitter.setOAuthConsumer(CONSUMER_KEY, CONSUMER_SECRET);
 3	 
 4	AccessToken accessToken = null;
 5	accessToken = new AccessToken(저장된Token, 저장된SecretToken);
 6	twitter.setOAuthAccessToken(accessToken);
+```
 위 코드처럼 2개의 토큰을 이용해서 twitter객체가 다시 인증된 상태로 만들면 됩니다. 이 twitter객체를 세션등에 저장해 놓고 계속 사용하면 됩니다. 그리고 트위터는 인증을 할때 유저의 스크린네임을 돌려주기 때문에 accessToken.getScreenName()를 이용하면 인증하면서 바로 스크린 네임을 얻을 수 있습니다. 
 
 
 
 트윗 가져오기
-?
+```
 1	List<Status> statuses;
 2	 
 3	Paging page = new Paging();
@@ -130,15 +133,17 @@ http://리다이렉트URL?oauth_token=인증토큰
 19	   //status.getUser().getProfileImageURL()
 20	   //status.getSource()
 21	}
+```
 페이징이 필요할때는 Paging객체 를 만들어서 사용하면 되고 사용자의 타임라인은 getHomeTimeline 
 을 이용하여 얻습니다. 각 트윗에 대한 정보는 status객체 를 통해서 얻어낼수 있고 사용자 정보는 User객체 를 통해서 추가적으로 얻을 수 있습니다. 멘션이나 Direct Message는 getMentions, getDirectMessages를 통해서 가져올 수 있습니다. 
 
 트윗작성하기
-?
+```
 1	Status status = null;
 2	try {
 3	   status = twitter.updateStatus(텍스트);
 4	} catch (TwitterException e) {
 5	}
+```
 트윗을 올리는 것은 아주 간단합니다. updateStatus메서드를 이용해서 텍스트를 전송하면 바로 트윗이 올라갑니다. Reply의 경우에는 twitter.updateStatus(텍스트, 리플라이할 트윗의 id); 와 같은 형태로 사용하면 됩니다.
 이외에도 Twitter4j에서는 많은 기능을 제공하고 있고 거의 모든 트위터의 기능을 아주 쉽게 사용할 수 있게 잘 작성되어 있습니다. 저도 쓰는거만 만져보고 다 보지는 못했네요.

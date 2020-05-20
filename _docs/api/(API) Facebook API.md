@@ -4,11 +4,10 @@ category: Api
 order: 1
 ---
 
-참고 URL : http://redcarrot.tistory.com/56
-1. 새 애플리케이션 만들기
-2. 인증과 토큰 생성
-3. 웹 브라우저 조회하기(URL 이용)
-3. JSON 리턴 값 확인
+### 1. 새 애플리케이션 만들기
+### 2. 인증과 토큰 생성
+### 3. 웹 브라우저 조회하기(URL 이용)
+### 4. JSON 리턴 값 확인
 
 - 앱 ID
 136194889764191
@@ -36,7 +35,6 @@ https://graph.facebook.com/oauth/access_token?client_id=136194889764191&redirect
 
 
 access_token=136194889764191|2.QNaXiDxVt_Y8XI2IezmiHQ__.3600.1305129600.1-100001739791527|zkNYgRhetFb-O0MsXfyf9zAUGRo&expires=4286
-
 
 
 사용 URL : https://graph.facebook.com/[Object ID]/[연결 사항]?access_token=[access_token]
