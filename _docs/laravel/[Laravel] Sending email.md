@@ -4,7 +4,7 @@
  category: Laravel   
 ---   
    
-### * 1. server   
+### 1. * server   
  php artisan make:controller ContactController   
     
 ### * 2. vi /home/crypto/htdocs/portfolio/.env   
@@ -26,8 +26,7 @@
     
 ### * 5. contact form(writing form)   
  contact.blade.php   
-<pre>
-<code>
+```
  <form action="contact" method="post" role="form" class="php-email-form">   
      {{@csrf_field()}}   
        <div class="form-row">   
@@ -55,8 +54,7 @@
        </div>   
        <div class="text-center"><button type="submit">Send Message</button></div>   
      </form>   
-</code>
-</pre>
+```
 
 ### * 6. set up route.php   
  Route::post('contact', 'ContactController@send');   
