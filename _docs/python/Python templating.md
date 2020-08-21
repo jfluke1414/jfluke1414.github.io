@@ -17,12 +17,3 @@ category: Python
 {% include 'footer.html' %}   
 ```   
    
-### 1. head.html   
-```   
-{% load static %}   
-   
-<!DOCTYPE html>   
-<html lang="en">   
-   
-
-```
