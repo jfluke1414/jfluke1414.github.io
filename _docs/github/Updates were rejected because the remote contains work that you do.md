@@ -11,4 +11,5 @@ hint: Updates were rejected because the remote contains work that you do
 ### solution   
 git pull -u origin master   
 
+vi page will open. write down like commend below and save.
 need to push
