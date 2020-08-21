@@ -8,12 +8,3 @@ category: Python
 템플릿 확장을 통해 재활용이 가능하다   
    
 ### 1. base.html   
-```   
-{% include 'head.html' %}   
-   
-{% block main_content %}   
-{% endblock %}   
-   
-{% include 'footer.html' %}   
-```   
-   
