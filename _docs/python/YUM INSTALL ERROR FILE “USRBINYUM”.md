@@ -8,7 +8,7 @@ yum is depending on python 2.*.
 If you use python 3.*
 have to change the link.
 
-## command
+### command
 1. cd /usr/bin
 
 2. ls -al | grep python

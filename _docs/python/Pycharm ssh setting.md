@@ -6,11 +6,11 @@ category: Python
       
 ### on the desktop   
       
-##1. Make directory   
+## 1. Make directory   
 - Create New project   
 
 ### on the Pycharm   
-##2. Setting   
+## 2. Setting   
 > Make a new folder for project in D drive   
 > Setting interpretor with SSH   
 > Go to Tools -> Development -> Configuration -> Mappings   

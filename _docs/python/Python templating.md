@@ -4,10 +4,10 @@ title: (Python) Python templating
 category: Python
 ---
 
-## Only extends is available only one time in the same html.
+### Only extends is available only one time in the same html.
 템플릿 확장을 통해 재활용이 가능하다
 
-##1. base.html
+### 1. base.html
 ```
 {% include 'head.html' %}
 
@@ -17,7 +17,7 @@ category: Python
 {% include 'footer.html' %}
 ```
 
-##1. head.html
+### 1. head.html
 ```
 {% load static %}
 
@@ -39,7 +39,7 @@ category: Python
 <body id="page-top">
 ```
 
-##2. home.html
+### 2. home.html
 {% extends 'base.html' %}
 
 {% block main_content %}
@@ -64,7 +64,7 @@ category: Python
 {% endblock %}
 ```
 
-##2. footer.html
+### 2. footer.html
 ```
 {% load static %}
 <!-- Bootstrap core JavaScript-->
