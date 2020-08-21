@@ -1,6 +1,6 @@
 ---                  
 order: 12   
-title: (Python) YUM INSTALL ERROR FILE USRBINYUM, LINE 30 EXCEPT KEYBOARDINTERRUPT ON CENT OS UBUNTU LINUX MINT REDHAT   
+title: (Python) yum install error file userbinyum, LINE 30 EXCEPT KEYBOARDINTERRUPT ON CENT OS UBUNTU LINUX MINT REDHAT   
 category: Python   
 ---   
    
