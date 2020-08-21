@@ -4,8 +4,8 @@ title: (Python) yum install error file userbinyum LINE 30 EXCEPT KEYBOARDINTERRU
 category: Python   
 ---   
    
-yum is depending on python 2.*.   
-If you use python 3.*   
+yum is depending on python 2..   
+If you use python 3.   
 have to change the link.   
    
 ### command   
