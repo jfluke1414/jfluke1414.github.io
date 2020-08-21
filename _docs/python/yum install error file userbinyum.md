@@ -4,8 +4,8 @@ title: (Python) yum install error file userbinyum LINE 30 EXCEPT KEYBOARDINTERRU
 category: Python   
 ---   
    
-yum is depending on python 2..   
-If you use python 3.   
+yum is depending on python 2.*.   
+If you use python 3.*   
 have to change the link.   
    
 ### command   
@@ -19,5 +19,5 @@ rm link_name
 ex)rm python   
    
 4. yum install cmake   
-when I tried to install mysql, there was an error as cmake doesn't work.   
+when I tried to install mysql, there was an error as cmake does not work.   
    
