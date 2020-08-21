@@ -4,10 +4,10 @@ title: (GITHUB) git add - error --ignore-removal
 category: Github
 ---      
 
-## Error
+### Error
 git add .
 warning: You ran 'git add' with neither '-A (--all)' or '--ignore-removal',
 whose behaviour will change in Git 2.0 with respect to paths you removed.
 
-## solution
+### solution
 git add --ignore-removal .
